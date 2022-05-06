@@ -1,0 +1,5 @@
+{
+    "devDependencies": {
+        "@types/screeps-arena": "screepers/typed-screeps-arena#develop"
+    }
+}
